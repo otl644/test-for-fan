@@ -39,5 +39,5 @@ Create IOU              	POST /iou	{"lender":<name of lender>,"borrower":<name o
 * Interact with the API through localhost or ``http://127.0.0.1/``;
 
 ## Instructions to test (requires python ^3.8):
-- Install poetry: ``$ pip install poetry``
+- Install poetry: ``pip install poetry``
 - launch tests: ``make tests``
