@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Giuseppino",
+    "owes": {},
+    "owed_by": {},
+    "balance": 0
+  },
+  {
+    "name": "Carlo",
+    "owes": {
+      "Bob": 186.4
+    },
+    "owed_by": {},
+    "balance": 186.4
+  },
+  {
+    "name": "Giacomo",
+    "owes": {},
+    "owed_by": {},
+    "balance": 0
+  }
+]
